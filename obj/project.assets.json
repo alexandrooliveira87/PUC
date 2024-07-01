@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\salexandro\\.nuget\\packages\\": {}
+    "C:\\Users\\Alex\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\Desenvolvimento\\PUC\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
       "projectName": "myfinance-web-netcore",
       "projectPath": "C:\\Desenvolvimento\\PUC\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
-      "packagesPath": "C:\\Users\\salexandro\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
       "outputPath": "C:\\Desenvolvimento\\PUC\\myfinance-web-netcore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\salexandro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
