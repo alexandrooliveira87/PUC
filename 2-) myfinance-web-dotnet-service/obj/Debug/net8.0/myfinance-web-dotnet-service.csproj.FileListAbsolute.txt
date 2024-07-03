@@ -1,0 +1,17 @@
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\bin\Debug\net8.0\myfinance-web-dotnet-service.deps.json
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\bin\Debug\net8.0\myfinance-web-dotnet-service.dll
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\bin\Debug\net8.0\myfinance-web-dotnet-service.pdb
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\myfinance-web-dotnet-service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\myfinance-web-dotnet-service.AssemblyInfoInputs.cache
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\myfinance-web-dotnet-service.AssemblyInfo.cs
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\myfinance-web-dotnet-service.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\myfinance-web-dotnet-service.dll
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\refint\myfinance-web-dotnet-service.dll
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\myfinance-web-dotnet-service.pdb
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\ref\myfinance-web-dotnet-service.dll
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\bin\Debug\net8.0\myfinance-web-dotnet-domain.dll
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\bin\Debug\net8.0\myfinance-web-dotnet-infra.dll
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\bin\Debug\net8.0\myfinance-web-dotnet-domain.pdb
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\bin\Debug\net8.0\myfinance-web-dotnet-infra.pdb
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\myfinance-web-dotnet-service.csproj.AssemblyReference.cache
+C:\Desenvolvimento\PUC\2-) myfinance-web-dotnet-service\obj\Debug\net8.0\myfinanc.6D7166F0.Up2Date

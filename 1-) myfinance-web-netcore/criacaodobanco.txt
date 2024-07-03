@@ -1,0 +1,36 @@
+CREATE DATABASE myfinance;
+go
+
+use myfinance;
+
+create table planoconta(
+	id int identity(1,1) not null,
+	descricao varchar(50) not null,
+	tipo char(1) not null,
+	primary key (id)
+);
+
+create table transacao(
+	id int identity(1,1) not null,
+	historico text null,
+	date date not null,
+	valor decimal(9,2),
+	planocontaid int not null
+	primary key(id),
+	foreign key(planocontaid) references planoconta(id)
+);
+
+insert into planoconta(descricao,tipo) values('Combustível','D')
+insert into planoconta(descricao,tipo) values('Alimentação','D')
+insert into planoconta(descricao,tipo) values('Imposto','D')
+insert into planoconta(descricao,tipo) values('Salário','R')
+
+
+insert into transacao(historico, data,valor,planocontaid)
+values('Gasolina para viagem',getdate(),300, 1)
+
+insert into transacao(historico, date,valor,planocontaid)
+values('Compras do Mês',getdate()+2,650, 2)
+
+insert into transacao(historico, date,valor,planocontaid)
+values('Salário do Mês','2024-07-02',3500, 4)
